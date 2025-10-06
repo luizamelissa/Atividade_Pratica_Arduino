@@ -1,6 +1,6 @@
 # Atividade_Pratica_Arduino
 
-Atividade prática da matéria de Sistemas Embarcados
+Atividade prática da matéria de Sistemas Embarcados utilizando Arduino
 
 # Link do Tinkercad:
 
